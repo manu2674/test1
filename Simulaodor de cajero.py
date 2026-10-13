@@ -1,3 +1,4 @@
+#Modifcacion para github
 # Simulador de cajero; ejercicio pedido a chatgpt, *para recordar y traabajar un poco mas
 
 # Condiciones:
@@ -48,18 +49,4 @@ while menu != 4:
     else:
         print("\033[31mOpción no válida\033[0m\n")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Modifcacion para github
